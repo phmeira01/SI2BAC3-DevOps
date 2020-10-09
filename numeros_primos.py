@@ -19,7 +19,7 @@ def numeros_primos():
             if numero % i == 0:
                 ehprimo = 0
                 break
-        if (ehprimo)):
+        if (ehprimo):
             primos = primos + str(numero) + ","
             p += 1
             if (p % 10 == 0):
