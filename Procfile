@@ -1,0 +1,1 @@
+web: python numeros_primos.py
